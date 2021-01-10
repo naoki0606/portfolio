@@ -238,7 +238,7 @@ nav div{
     position: relative;
     top: -2px;
     width: 100%;
-    max-height: 400px;
+    max-height: 600px;
     border-radius: 5px;
     display: flex;
     flex-direction: column;
